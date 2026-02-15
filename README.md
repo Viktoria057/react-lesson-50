@@ -28,7 +28,7 @@
 ---
 
 ## 🔗 Посилання
-- **Демо проекту (Live Demo):** [react-lesson-50.vercel.app]
+- **Демо проекту (Live Demo):** [https://react-lesson-50.vercel.app/]
 - **Репозиторій:** [https://github.com/Viktoria057/react-lesson-50.git]
 
 ---
